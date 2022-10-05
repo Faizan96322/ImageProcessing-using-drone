@@ -2,7 +2,7 @@
 
 Please upload the files in this format inside output folder
 
-Batch-X
-  |_ Annotations (XML)
-  |_ Images (cz label-studio is renaming the images)
-   - Batch-X.json
+Batch-X<br>
+  |_ Annotations (XML)<br>
+  |_ Images (cz label-studio is renaming the images)<br>
+  |_ Batch-X.json<br>
